@@ -1,0 +1,56 @@
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: #F9F9F9;
+}
+
+#finder{
+	margin-top: 100px;
+}
+
+
+h1{
+	font-size: 35px;
+	font-weight: 700;
+}
+
+h4{
+	font-size: 13px;
+}
+
+input{
+	margin-top: 15px;
+	background-color: #4081EC;
+	color: white;
+	border-radius: 100px;
+	border: 1px solid #4081EC;
+}
+
+.inputfile + label {
+	border-radius: 5px;
+}
+
+.rules{
+	background-color: #FFF3CD;
+	border: 1px solid #FFEEBA;
+	border-radius: 5px;
+	font-size: 12px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #856405;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	margin-top: 30px;
+}
+
+line{
+	font-size: 10px;
+}
+
+.tittle{
+	margin-top: 10px;
+	font-weight: 900;
+}
+
+.search{
+	background-color: white;
+}
